@@ -1,2 +1,3 @@
 # project-1
-my first project
+my first reprository
+Author - Pravda Premji
